@@ -3,6 +3,15 @@
   "version": "1.0.0",
   "description": "sample indexeddb trial",
   "main": "index.html",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "resizable": true,
+    "width": 800,
+    "height": 500,
+    "min_width": 400,
+    "min_height": 200
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
