@@ -1,0 +1,22 @@
+{
+  "name": "idb",
+  "version": "1.0.0",
+  "description": "sample indexeddb trial",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damodaran/idb.git"
+  },
+  "keywords": [
+    "indexeddb"
+  ],
+  "author": "Damodaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damodaran/idb/issues"
+  },
+  "homepage": "https://github.com/damodaran/idb"
+}
